@@ -13,12 +13,6 @@ You can view this project live on GitHub Pages [Sign-In Form Demo](https://yasmi
     
 -   **Custom Styling:** The project includes custom CSS styling to enhance the visual appeal of the form.
     
-
-## Usage
-
-Visit the [Sign-In Form Demo](https://yasmin-gab.github.io/signinform/) to view the form in action.
-    
-
 ## Cloning the Repository
 
 If you'd like to explore or work with the code locally, you can clone this repository to your computer using the following command:
